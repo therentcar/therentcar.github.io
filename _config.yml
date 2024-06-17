@@ -14,24 +14,24 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: rentncar # the main title
+title: uinfoshop # the main title
 
 tagline: 실시간 뉴스를 보다 신속하게 # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  실시간 뉴스를 보다 신속하게 제공하는 rentncar 입니다.
+  실시간 뉴스를 보다 신속하게 제공하는 uinfoshop 입니다.
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://uinfoshop.com"
 
 github:
-  username: rentncar # change to your github username
+  username: uinfoshop # change to your github username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: rentncar
+  name: uinfoshop
   email: example@domain.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
